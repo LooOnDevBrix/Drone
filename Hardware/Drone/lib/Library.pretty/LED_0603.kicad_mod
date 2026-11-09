@@ -1,0 +1,640 @@
+(footprint "LED_0603"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -1.3 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "7552611d-dbad-4d1f-900b-5e0a7158907e")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.15)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "RED/0603"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "379fdc4c-0c46-40fb-b898-b818b8c17ed7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "492325c8-ef75-4b82-9638-f8c26fb8701c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Standard LEDs - SMD"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "344713b5-8357-4fea-ad0a-a221a119c15a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "BanLinhKien" "https://banlinhkien.com/led-0603-mau-xanh-la-green-10-chiec-p22456389.html"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e78a5d26-9aec-407c-8177-e1127dac95f7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C965799"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "806032d9-ed55-470d-a159-0004e800b191")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Thegioiic" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "661e0d20-bfd4-41e8-87d5-031a2bb09622")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MNF1" "ams OSRAM"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "13170e9a-3523-41e5-8944-5ff78cd8fcb1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MNF2" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6449a962-0f37-4d53-aa70-18f7fea66070")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "P/N1" "KO EELP41.22-Q1S2-25-A8J8-020-R18"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ac082520-5ce6-432d-bf95-0bf3a1e8c68e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "P/N2" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cde6fd84-bdd7-41ae-943c-546ddde2e315")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Link phụ kiện" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0ba687c6-6a5e-47b1-b1fd-c48dc03b26b3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Phụ Kiện" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9181f0e1-1355-44cb-b278-334e5bbcc715")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "lcsc_accociate" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "13a287bc-c0e9-4e2b-b785-fe49ad869f04")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Buy" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ae29b070-fd13-443f-8991-43d7938c9822")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Device" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e5be42a9-ab74-48f8-965c-ee83be73145f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Library" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0eea7870-96ae-4dc6-afbd-77c0b4be3460")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Name" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c62a6780-ea96-47ac-a270-dd6b53a4941b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Params" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8dab8873-ba71-4be1-bacc-5d5537efae10")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Pins" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "deb5816a-96a9-45ae-8fe2-fb81c01237d4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier and ref" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eee0fd68-cf28-4d66-b956-61901306127a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supply" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3f757cf3-cdd9-4526-9eb5-2510d44a9019")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "thegioiic" "https://www.thegioiic.com/led-do-0603-dan-smd-trong-suot-harvatek"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fe24c56b-9e95-49c7-b139-be7916f83e53")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "gia" "340"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "95705a1d-e7f8-4373-9114-8c9eb1d6a337")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Digikey" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8d017905-9b23-40c1-b1a8-4ffe3a6d78e4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "AVAILABILITY" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b2f82ca7-6da2-471d-9ec4-2f7175577da5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "DESCRIPTION" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3b410160-2796-4285-b09b-cbf75a6332d7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "JLC Part" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4c8445c0-0b76-484a-83fb-1a1a1c5affd6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PACKAGE" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "34a17234-217f-493a-a05d-1e3f328be56a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PRICE" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4ccd5913-7115-425d-9273-080ac9eed351")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.5 -0.7)
+		(end -1.5 0.7)
+		(stroke
+			(width 0.25)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "8ff68f08-00a3-4bb9-93f5-38029ac54801")
+	)
+	(fp_line
+		(start -1.5 -0.7)
+		(end 0.35 -0.7)
+		(stroke
+			(width 0.25)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "beba9d36-671e-40f0-bcc8-77b6fd25ae3c")
+	)
+	(fp_line
+		(start -1.5 0.7)
+		(end 0.275 0.7)
+		(stroke
+			(width 0.25)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e81f9666-b5e8-4cba-824c-afda2a0164b5")
+	)
+	(fp_line
+		(start -0.2 -0.4)
+		(end -0.2 0.4)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5efa8792-50c0-44ad-b8cc-6c1490143ba9")
+	)
+	(fp_poly
+		(pts
+			(xy -0.2 0) (xy 0.2 -0.4) (xy 0.2 0.4)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "1f3f2371-8bd3-44b7-a1db-94350d815af4")
+	)
+	(fp_rect
+		(start -1.5 -0.7)
+		(end 1.5 0.7)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "6b8369dc-4867-4629-badc-a8aa65ba4fb6")
+	)
+	(fp_line
+		(start -0.8 -0.4)
+		(end 0.8 -0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d9712cdb-54b3-4877-be95-eea0d19423f4")
+	)
+	(fp_line
+		(start -0.8 0.4)
+		(end -0.8 -0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f3b57bf0-9404-498a-86fe-15adc017bf2f")
+	)
+	(fp_line
+		(start -0.175 -0.2875)
+		(end -0.175 0.2625)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "ddb02da6-05c5-4642-a670-382d43f916b5")
+	)
+	(fp_line
+		(start -0.175 -0.0125)
+		(end -0.5 -0.0125)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "70c22b9d-1de9-4976-aa0f-1cf4a7311bfe")
+	)
+	(fp_line
+		(start 0.525 -0.0125)
+		(end 0.2 -0.0125)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "13d2172f-5eb0-4792-977d-4f167d67773b")
+	)
+	(fp_line
+		(start 0.8 -0.4)
+		(end 0.8 0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7182daa3-b63c-45a7-87b9-d61252f7e1a2")
+	)
+	(fp_line
+		(start 0.8 0.4)
+		(end -0.8 0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "922d8fcc-62c2-4ef9-9e18-c47f1c734c3c")
+	)
+	(fp_poly
+		(pts
+			(xy -0.125 -0.0125) (xy 0.175 -0.3125) (xy 0.175 0.2875)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "365c15da-a597-4588-8926-52810b36487c")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0.1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "40c6c0ae-7ce1-4bc0-839b-d2394a9c2192")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at 0.775 0)
+		(size 0.85 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "5b047dc5-85e9-45bb-8d99-7bfc036e4a75")
+	)
+	(pad "2" smd roundrect
+		(at -0.775 0)
+		(size 0.85 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "4779b1fa-4dae-4e40-983b-102e2165f3c4")
+	)
+	(embedded_fonts no)
+	(model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl"
+		(hide yes)
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${IOTVISON_3D}/Diode/LED/LED/0603 Red.step"
+		(hide yes)
+		(offset
+			(xyz 0 0 -0.1)
+		)
+		(scale
+			(xyz 1 1 0.9)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${ANH_3DMODELS}/General/SMD_Led/LED0603_GREEN.STEP"
+		(hide yes)
+		(offset
+			(xyz 0 0 -0.1)
+		)
+		(scale
+			(xyz 1 1 0.9)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${ANH_3DMODELS}/General/SMD_Led/LED0603_BLUE.STEP"
+		(hide yes)
+		(offset
+			(xyz 0 0 -0.1)
+		)
+		(scale
+			(xyz 1 1 0.9)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${ANH_3DMODELS}/General/SMD_Led/LED0603_YELLOW.STEP"
+		(hide yes)
+		(offset
+			(xyz 0 0 -0.1)
+		)
+		(scale
+			(xyz 1 1 0.9)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${IOTVISION_3D}/Diode/LED/LED/0603 Red.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -1,0 +1,9 @@
+Manufacturer=JST (JAPAN SOLDERLESS TERMINALS)
+PartNumber=B2B-ZR-3.4(LF)(SN)
+PartCategory=Connector
+PackageCategory=Header, Shrouded - Straight PTH Box
+PinCount=2
+Version=1.2
+Released=2020-02-09 11:17:11
+Downloaded=2025-11-13 14:11:00
+3D=Y

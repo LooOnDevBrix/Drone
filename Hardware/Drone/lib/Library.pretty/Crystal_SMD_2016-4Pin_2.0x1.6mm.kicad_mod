@@ -1,0 +1,162 @@
+(footprint "Crystal_SMD_2016-4Pin_2.0x1.6mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SMD2016/4, Crystal, 2.0x1.6mm package, SMD, generated with kicad-footprint-generator make_crystal.py, http://www.q-crystal.com/upload/5/2015552223166229.pdf")
+	(property "Reference" "REF**"
+		(at 0 -2 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "9fc759ed-e79a-4ca9-b0d4-9f6dd0d016ab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "16Mhz"
+		(at 0 2 180)
+		(layer "F.Fab")
+		(uuid "0f97cc97-90ec-424e-aafb-9e7c649422d5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://docs.rs-online.com/ec34/0900766b816028ea.pdf"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "67b607db-2812-481b-b3fb-6881436260cf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Four pin crystal, GND on pins 2 and 4, small symbol"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1bc4c5ec-87f9-4481-999b-bef8b7eb2555")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "JLC" "C12668"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f6176705-2174-462e-94a2-0649ad477795")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.41 -1.21)
+		(end -1.41 1.21)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ed4e05e8-a5a6-4a99-8ffb-c641c31d0463")
+	)
+	(fp_line
+		(start -1.41 1.21)
+		(end 1.41 1.21)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4fda5886-9be4-4096-a6bd-363d4bf08cd2")
+	)
+	(fp_rect
+		(start -1.5 -1.3)
+		(end 1.5 1.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "c23fdd24-fdb4-4e26-8fa4-8d8514100b02")
+	)
+	(fp_poly
+		(pts
+			(xy -1 -0.8) (xy -1 0.4) (xy -0.6 0.8) (xy 1 0.8) (xy 1 -0.8)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "c28ea059-3629-458d-8cbb-d647d0f258ad")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(uuid "4a91d20c-e129-458c-ba62-db9cc4fa7f05")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.08)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -0.7 0.55)
+		(size 0.9 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "e1c243eb-001b-4cea-acfb-06198f9edf46")
+	)
+	(pad "2" smd roundrect
+		(at 0.7 0.55)
+		(size 0.9 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "f55b16bf-d598-4bca-9550-9d3e4958b4bc")
+	)
+	(pad "3" smd roundrect
+		(at 0.7 -0.55)
+		(size 0.9 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "7f74ad17-cc03-4cbd-a364-87ce9de62be5")
+	)
+	(pad "4" smd roundrect
+		(at -0.7 -0.55)
+		(size 0.9 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "5889ff8f-5d03-4b1e-a1e7-dcdbc3b4fea2")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_2016-4Pin_2.0x1.6mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

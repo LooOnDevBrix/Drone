@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "B2B-ZR-3_4_LF__SN_"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-04-21-14:25:58)
+    (mountForm default
+        (footprintRef "SHDR2W50P0X150_1X2_450X350X450P")
+        (spec "System")
+    )
+)

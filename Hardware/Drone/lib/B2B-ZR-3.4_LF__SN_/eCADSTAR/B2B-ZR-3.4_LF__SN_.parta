@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_982508"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-02-09-11:17:11)
+    (utime 2025-04-21-14:25:58)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "B2B-ZR-3_4_LF__SN_")
+)
+
+
+(pinAssign "ECS_982508"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-02-09-11:17:11)
+    (utime 2025-04-21-14:25:58)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_982508")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "B2B-ZR-3_4_LF__SN_")
+)
+
+
+(part "B2B-ZR-3_4_LF__SN_"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-02-09-11:17:11)
+    (utime 2025-04-21-14:25:58)
+    (packageRef "B2B-ZR-3_4_LF__SN_")
+    (pinAssignRef "ECS_982508")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "J")
+    (property "description" "CONN HEADER VERT 2POS 1.5MM")
+    (property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)")
+    (property "Manufacturer_Part_Number" "B2B-ZR-3.4(LF)(SN)")
+    (property "Mouser_Part_Number" "306-B2BZR3.4LFSN")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/JST-Commercial/B2B-ZR-3.4LFSN?qs=cdbOS8ANM9C2HtZS%252BiY4WQ%3D%3D")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "http://www.jst-mfg.com/product/pdf/eng/eZH.pdf")
+    (property "compAreaTopHeight" 4.5)
+)
+
+

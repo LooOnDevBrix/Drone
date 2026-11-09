@@ -1,0 +1,40 @@
+*PADS-LIBRARY-PCB-DECALS-V9*
+
+SHDR2W50P0X150_1X2_450X350X450P M 0 0 0 2 3 0 2 2 0
+TIMESTAMP 2025.11.13.14.11.00
+0 0 0 0 1.27 0.127 1 0 34 "Regular <Romansim Stroke Font>"
+REF-DES
+0 0 0 0 1.27 0.127 1 32 35 "Regular <Romansim Stroke Font>"
+PART-TYPE
+CLOSED 5 0.05 20 -1
+1.75 -1.55
+-3.25 -1.55
+-3.25 2.45
+1.75 2.45
+1.75 -1.55
+CLOSED 5 0.1 27 -1
+1.5 -1.3
+-3 -1.3
+-3 2.2
+1.5 2.2
+1.5 -1.3
+OPEN 5 0.2 26 -1
+0 -1.3
+-3 -1.3
+-3 2.2
+1.5 2.2
+1.5 0
+T0 0 0 0 1
+T-1.5 0 -1.5 0 2
+PAD 0 3 P 0.7
+-2 1.1 R
+-1 1.1 R
+0 1.1 R
+PAD 1 3 P 0.7
+-2 1.1 S 0
+-1 1.1 R
+0 1.1 S 0
+
+*END*
+*REMARK* AP
+B2B-ZR-3.4_LF__SN_.stp/0/0/0/0/0/0

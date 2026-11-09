@@ -1,0 +1,85 @@
+(footprint "CONN-SMD_YTC1P-3015-01"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "CONN-SMD_YTC1P-3015-01 footprint")
+	(tags "CONN-SMD_YTC1P-3015-01 footprint C5221293")
+	(property "Reference" "REF**"
+		(at 0 -2 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "114fcac4-c47f-48e0-8dd8-749a7b6e3f94")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CONN-SMD_YTC1P-3015-01"
+		(at 0 2 0)
+		(layer "F.Fab")
+		(uuid "495db2c4-ad51-43fd-8fd3-972dc0ad1960")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f9ac7565-4820-424f-9cab-6ada3cad80c5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "41595fb1-050e-44e7-a7ca-ac09950d680b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_text user "REF**"
+		(at 0 4 0)
+		(layer "F.Fab")
+		(uuid "61d5f718-cce8-463a-b5af-954e1336e8d1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd circle
+		(at 0 0)
+		(size 2 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "09fdbfe6-a70f-4141-ba16-f4b28134f009")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/3D/CONN-SMD_YTC1P-3015-01.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

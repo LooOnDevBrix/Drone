@@ -1,0 +1,195 @@
+(footprint "SOT233"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 3 -3.1 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "19e708fa-431b-4f83-9037-8e4eee9fa6ef")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.3)
+			)
+		)
+	)
+	(property "Value" "AMS1117-3.3"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "d87e898f-0664-4e04-b2ac-5df7921565d7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "http://www.advanced-monolithic.com/pdf/ds1117.pdf"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8f7747db-235b-4748-8a7d-4a6e4e5a97c0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "1A Low Dropout regulator, positive, 1.5V fixed output, TO-252"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f4a76c23-302c-4064-b3a5-61c610136c5d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -3.09 -1.7)
+		(end 3.4 1.82)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "eab36ea2-66b5-4f9b-82d6-5da2a73e12a4")
+	)
+	(fp_poly
+		(pts
+			(xy -1.8 1.8) (xy -3.07 1.79) (xy -3.09 0.4)
+		)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "8a514058-dd75-4de1-8b6f-b43d752dbfb3")
+	)
+	(fp_line
+		(start 3.65 4.29)
+		(end 3.65 -4.17)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "454db6d0-6a49-416a-a3fd-be5b171433c4")
+	)
+	(fp_line
+		(start 3.65 -4.17)
+		(end -3.35 -4.17)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2fcddaf9-24f6-41bf-968b-90345c44194c")
+	)
+	(fp_line
+		(start -3.35 4.29)
+		(end 3.65 4.29)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "eaaedc30-454b-4df9-a0e4-6f659a122649")
+	)
+	(fp_line
+		(start -3.35 -4.17)
+		(end -3.35 4.29)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f294477a-45a9-4f13-93a8-a549c632c498")
+	)
+	(fp_line
+		(start 3.4 1.81)
+		(end -3.1 1.81)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4970398c-dbd7-4f9e-bed8-65646323890e")
+	)
+	(fp_line
+		(start 3.4 -1.69)
+		(end 3.4 1.81)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5c920149-f111-469a-aba9-c91715ca1828")
+	)
+	(fp_line
+		(start -3.1 1.81)
+		(end -3.1 -1.69)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5468eb8b-92d0-4218-8b79-b8cc4fd3e29a")
+	)
+	(fp_line
+		(start -3.1 -1.69)
+		(end 3.4 -1.69)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3d0ba600-c4d7-47c1-85f2-bf56bbcfd500")
+	)
+	(pad "1" smd rect
+		(at -2.15 3.185 270)
+		(size 1.76 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9810a1c7-e0ee-4554-904b-00c687206075")
+	)
+	(pad "2" smd rect
+		(at 0.15 -3.065 270)
+		(size 1.76 3.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8645ed11-bf8e-4c20-adca-1c7d549c7507")
+	)
+	(pad "2" smd rect
+		(at 0.15 3.185 270)
+		(size 1.76 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8ecfad4f-4e55-4cec-9ee9-92f2718cd779")
+	)
+	(pad "3" smd rect
+		(at 2.45 3.185 270)
+		(size 1.76 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "af133579-f4f1-41ad-89f4-72c4d45eb812")
+	)
+	(embedded_fonts no)
+	(model "${IOTVISION_3D}/MCU_SoC_Package/SOT223/SOT223.stp"
+		(offset
+			(xyz 0.1 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

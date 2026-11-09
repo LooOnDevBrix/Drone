@@ -1,0 +1,18 @@
+.B2B-ZR-3.4_LF__SN_ :1 ;CONN HEADER VERT 2POS 1.5MM
+SHDR2W50P0X150_1X2_450X350X450P
+*STM J
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN B2B-ZR-3.4_LF__SN_
+~!Manufacturer_Name (JST (JAPAN SOLDERLESS TERMINALS))
+~!Manufacturer_Part_Number (B2B-ZR-3.4(LF)(SN))
+~!Mouser Part Number (306-B2BZR3.4LFSN)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/JST-Commercial/B2B-ZR-3.4LFSN?qs=cdbOS8ANM9C2HtZS%252BiY4WQ%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf)
+~!Height (4.5mm)
+~!3D_Model (B2B-ZR-3.4_LF__SN_)
+B2B-ZR-3.4_LF__SN_
+1.1!U 2.1!U 
